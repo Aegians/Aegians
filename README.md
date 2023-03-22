@@ -1,1 +1,1 @@
-![kanye](([https://data.whicdn.com/images/323349873/original.jpg](https://i.pinimg.com/originals/50/fa/e4/50fae4ac6186ec1b54391191b7db925d.gif)](https://i.pinimg.com/750x/25/b0/d3/25b0d3fb88162965e0037e181915cf48.jpg))
+![kanye](([[https://data.whicdn.com/images/323349873/original.jpg](https://i.pinimg.com/750x/25/b0/d3/25b0d3fb88162965e0037e181915cf48.jpg)])
