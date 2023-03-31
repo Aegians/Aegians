@@ -8,10 +8,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
+  <a href="bio-link">
     <img src="https://img.shields.io/website?color=%23cb0bf6&label=https%3A%2F%2Ffraud.wiki%2Fmilfs&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs" alt"Bio Link"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="bio-link2">
     <img src="https://img.shields.io/website?color=%23ed0404&label=https%3A%2F%2Fniggas.paris%2Ftorch&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs" alt"Bio Link"/>
   </a>
 </div>
@@ -28,7 +28,7 @@
 
  - I condone skidding, just don't skid me :D
 
- - How to reach me: [![Website](ttps://img.shields.io/website?color=%23cb0bf6&label=https%3A%2F%2Ffraud.wiki%2Fmilfs&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs)](your-linkedin-url)
+ - How to reach me: [![Website](ttps://img.shields.io/website?color=%23cb0bf6&label=https%3A%2F%2Ffraud.wiki%2Fmilfs&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs)](bio-link)
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
