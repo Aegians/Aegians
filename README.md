@@ -3,9 +3,6 @@
   <img src="https://i.pinimg.com/originals/d1/d2/5e/d1d25eef897b3f7ac78e95db58f1af2e.gif" width="30px"/>
 </h1>
 
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/8e/43/55/8e435553bef00a612c64096367e4e53e.jpg" width="300"/>
-</div>
 
 <div id="badges" align="center">
   <a href="bio-link">
@@ -17,11 +14,14 @@
 </div>
 
 <div id="badges" align="center">
-<a href=bio-link-url">
+<a href="bio-link-url">
   <img src="https://img.shields.io/keybase/btc/skyplabs?color=000000&label=btc&logo=000000&logoColor=000000" alt"btc address"/>
   </a>
 </div>
+                         
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aegians&show_icons=true&theme=dark)
 
+                                                                                                                             
 ---
 
  - Semi-full stacked developer
