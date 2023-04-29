@@ -14,7 +14,7 @@
 </div>
 
 <div id="badges" align="center">
-<a href="bio-link-url">
+<a href="btc-address">
   <img src="https://img.shields.io/keybase/btc/skyplabs?color=000000&label=btc&logo=000000&logoColor=000000" alt"btc address"/>
   </a>
 </div>
