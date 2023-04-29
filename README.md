@@ -39,8 +39,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title ="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="C#" width="40" height="40" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="CSharp" alt="C#" width="40" height="40" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="CSharp" alt="C#" width="40" height="40" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CSharp" alt="C#" width="40" height="40" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua" alt="C#" width="40" height="40" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="C#" width="40" height="40" />&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="C#" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40" />&nbsp;
 </div>
