@@ -1,5 +1,5 @@
-   </a><h3>
-  Aegians
+<div id="image" align="center">
+   
   <img src="https://i.pinimg.com/originals/20/c6/09/20c609f194dde4421224b94e9d3d5c6c.gif" width="60px"/>
 </h1>
 
@@ -13,22 +13,11 @@
   </a>
 </div>
 
-<div id="badges" align="center">
-<a href="btc-address">
-  <img src="https://img.shields.io/keybase/btc/skyplabs?color=000000&label=btc&logo=000000&logoColor=000000" alt"btc address"/>
-  </a>
-</div>
                          
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aegians&show_icons=true&theme=dark)
 
                                                                                                                              
----
 
- - Semi-full stacked developer
-
- - I condone skidding, just don't skid me :D
-
- - How to reach me: [![Website](ttps://img.shields.io/website?color=%23cb0bf6&label=https%3A%2F%2Ffraud.wiki%2Fmilfs&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs)](bio-link)
  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
