@@ -37,6 +37,7 @@
    
 <div>
    <img src="https://media.licdn.com/dms/image/D4E12AQFXbj61jFU5Yw/article-cover_image-shrink_600_2000/0/1686056832229?e=2147483647&v=beta&t=8IOUzkvzaSdAmIYxt6_YhdvOurwZMb656zzJ169fn-s" title="RUST" alt="RUST" width="120" height="60"/>&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="swift" alt="swift" width="120" height="120" height="40" />&nbsp;
 </div>
 
 </details>
