@@ -48,9 +48,9 @@
   
   ### PGP KEY
  
-  ```
+  ```markdown
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Version: BCPG v1.58
+# Version: BCPG v1.58
 
 mQINBGS+DwIBEADZnbNKy+1wuJlZupPY6Hmf+juYTFDsgTEArleHMnNPeJe86S/7
 rRBAEd3q+I3mHR18l4AogNRUewVnNdeI0Mxd2LC1mY4YlhGjjIqBsP5ytTBSdGrZ
