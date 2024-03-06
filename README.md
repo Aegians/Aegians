@@ -6,10 +6,10 @@
 
 <div id="badges" align="center">
   <a href="bio-link">
-    <img src="https://img.shields.io/website?color=%23cb0bf6&label=https%3A%2F%2Ffraud.wiki%2Fmilfs&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs" alt"Bio Link"/>
+    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fdose.lol%2Fbbc" alt"Bio Link"/> 
   </a>
   <a href="bio-link2">
-    <img src="https://img.shields.io/website?color=%23ed0404&label=https%3A%2F%2Fniggas.paris%2Ftorch&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs" alt"Bio Link"/>
+    <img src="https://img.shields.io/website?color=%23ed0404&label=https%3A%2F%2Fdose.lol%2Fmilfs&logo=cb0bf6&logoColor=cb0bf6&up_color=red&up_message=bio%20link&url=https%3A%2F%2Ffraud.wiki%2Fmilfs" alt"Bio Link"/>
   </a>
 </div>
 
@@ -30,6 +30,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="C#" width="40" height="40" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40" />&nbsp;
 </div>
 
 <details>
